@@ -6,7 +6,7 @@ import Slickcorousel from './components/Slickcorousel';
 const App = () => {
   return (
     <main>
-      {/* <Courosel /> */}
+      <Courosel />
       <Slickcorousel />
     </main>
   );
