@@ -1,11 +1,13 @@
 
 
 import Courosel from './components/Courosel';
+import Slickcorousel from './components/Slickcorousel';
 
 const App = () => {
   return (
     <main>
-      <Courosel />
+      {/* <Courosel /> */}
+      <Slickcorousel />
     </main>
   );
 };
